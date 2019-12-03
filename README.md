@@ -77,7 +77,7 @@ Step 7 — Activate Virtual Environment
 Activate the environment using the command below, where my_env is the name of your programming environment.
 
 
-source my_env/bin/activate
+    $ source my_env/bin/activate
 
 
 Step 8 - Install Django
