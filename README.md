@@ -64,7 +64,7 @@ Step 6 — Create a Virtual Environment
 You can create a new environment with the pyvenv command. Here, we’ll call our new environment my_env, but you can call yours whatever you want.
 
 
-  $ python3.6 -m venv my_env
+  $ python3 -m venv my_env
   
   
 Step 7 — Activate Virtual Environment
