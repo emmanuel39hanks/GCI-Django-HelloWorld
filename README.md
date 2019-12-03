@@ -29,7 +29,7 @@ framework execute the follow command:
     or
     $ sudo pip3 install -r requirements.txt
     or
-    $ sudo pip3 install django=2.2.0
+    $ sudo pip3 install django==2.2.0
 
 And later followed by:
 
