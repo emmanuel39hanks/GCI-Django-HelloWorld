@@ -2,6 +2,12 @@
 
 A Django Hello World program for the GCI Fedora Project Task by Emmanuel Haankwenda.
 
+Cloning the project
+===================
+
+    $ git clone https://github.com/emmanuel39hanks/GCI-Django-HelloWorld
+    $ cd GCI-Django-HelloWorld
+
 Installation
 ============
 
