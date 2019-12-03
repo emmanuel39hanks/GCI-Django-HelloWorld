@@ -84,6 +84,6 @@ After which you can run::
     $ python3 manage.py runserver
 
 Then, you can open the URL http://127.0.0.1:8000/ in your web browser and you can 
-see the hello world example like this:
+see the hello world:
 
-Also you can open in your web browser the URL http://127.0.0.1:8000/admin for access to 
+Also you can open in your web browser the URL http://127.0.0.1:8000/admin for access to admin panel
