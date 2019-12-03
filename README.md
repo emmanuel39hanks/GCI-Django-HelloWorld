@@ -1,9 +1,5 @@
 # GCI-Django-HelloWorld
 
-=================
-django-helloworld
-=================
-
 A Django program for GCI Task By Fedora Project.
 
 Installation
