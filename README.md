@@ -1,6 +1,6 @@
 # GCI-Django-HelloWorld
 
-A Django Hello World program for the GCI Fedora Project Task.
+A Django Hello World program for the GCI Fedora Project Task by Emmanuel Haankwenda.
 
 Installation
 ============
