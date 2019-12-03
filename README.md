@@ -26,6 +26,8 @@ framework execute the follow command:
 ::
 
     $ sudo pip install -r requirements.txt
+    or
+    $ sudo pip3 install -r requirements.txt
 
 And later followed by:
 
