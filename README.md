@@ -1,18 +1,22 @@
 # GCI-Django-HelloWorld
 
-A Django program for GCI Task By Fedora Project.
+=================
+django-helloworld
+=================
+
+A Django Hello World program for the GCI Fedora Project Task.
 
 Installation
 ============
 
-You need install the pre-requirements for his Hello World program to run.
+You need install the pre-requirements for run this Hello World example.
 
-Update repositories of available packages to install if on linux, with
+Update repositories of available packages to install, with
 the following command:
 
 ::
 
-  $ sudo apt-get update
+  $ sudo apt update
 
 Install necessary minimum dependencies, with the following command:
 
@@ -20,7 +24,7 @@ Install necessary minimum dependencies, with the following command:
 
   $ sudo apt install python3-dev python3-pip python3-virtualenv sqlitebrowser
 
-To run this example need to install Django
+To run this example need to install the Django
 framework execute the follow command:
 
 ::
