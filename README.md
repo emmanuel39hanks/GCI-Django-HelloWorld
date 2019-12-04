@@ -64,7 +64,7 @@ Step 8 - Install Django
 
 Running the app
 ===============
-
+    $ python3 manage.py migrate
     $ python3 manage.py runserver
 
 To access the app visit the URL  http://127.0.0.1:8000/ in your browser, You should see the 'Hello World'
