@@ -43,14 +43,13 @@ Virtual environments enable you to have an isolated space on your server for Pyt
   
   
 Step 6 — Create a Virtual Environment
-You can create a new environment with the pyvenv command. Here, we’ll call our new environment my_env, but you can call yours whatever you want.
+You can create a new environment with the pyvenv command. Here, we’ll call our new environment django_env.
 
 
-    $ python3 -m venv my_env
+    $ python3 -m venv django_env
   
   
 Step 7 — Activate Virtual Environment
-Activate the environment using the command below, where my_env is the name of your programming environment.
 
 
     $ source my_env/bin/activate
