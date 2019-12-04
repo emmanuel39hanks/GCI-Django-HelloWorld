@@ -52,7 +52,7 @@ You can create a new environment with the pyvenv command. Here, we’ll call our
 Step 7 — Activate Virtual Environment
 
 
-    $ source my_env/bin/activate
+    $ source django_env/bin/activate
 
 
 Step 8 - Install Django
